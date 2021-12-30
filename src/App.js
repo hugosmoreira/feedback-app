@@ -1,4 +1,6 @@
 import './App.css';
+import AboutIconLink from './components/AboutIconLink';
+import FeedbackData from './data/FeedBackData';
 
 function App() {
   return (
