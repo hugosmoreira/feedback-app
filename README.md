@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+React Feedback App
+This is a project from my React Front To Back 2022 course. It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
+
+This project goes over all of the fundamentals of React including...
+
+Components
+JSX
+Props (proptypes, defaultprops, etc)
+State (Component & App Level)
+Styling
+Handling Events
+Lists & Keys
+Forms
+Context API
+HTTP Requests
+Usage
+Install dependencies
+npm install
+Run
+npm run dev
+This will run JSON-server on port :5000 and React on port :3000
